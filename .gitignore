@@ -36,3 +36,17 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# database
+*.db
+*.db-journal
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build files
+android/app/build/
+ios/build/
